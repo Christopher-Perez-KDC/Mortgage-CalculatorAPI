@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+/* Add your styles here */
+div {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
